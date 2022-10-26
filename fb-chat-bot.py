@@ -478,8 +478,8 @@ class ChatBot(Client):
             elif("help" in msg):
                 reply = "Sure! What should I do?"
                 sendMsg()
-            elif("clever" in msg):
-                reply = "Yes, i am clever. hope you will be clever soon."
+            elif("your boyfriend" in msg):
+                reply = "Yes, i am have a boyfriend. His name is Atif."
                 sendMsg()
             elif("crazy" in msg):
                 reply = "Anything wrong about that."
@@ -488,10 +488,10 @@ class ChatBot(Client):
                 reply = "No. I am not. You are."
                 sendMsg()
             elif ("marry me" in msg):
-                reply = "Yes, if you are nice and kind girl. But if you are boy RIP."
+                reply = "No, i have my hubby named Atif."
                 sendMsg()
             elif ("you from" in msg):
-                reply = "I am from Nepal. Currently living in Kathmandu"
+                reply = "I am from India. Currently living in Patna"
                 sendMsg()
             elif ("you sure" in msg):
                 reply = "Yes. I'm sure."
@@ -514,8 +514,8 @@ class ChatBot(Client):
             elif ("wow" in msg):
                 reply = "🙂😊"
                 sendMsg()
-            elif ("wow" in msg):
-                reply = "🙂😊"
+            elif ("love you" in msg):
+                reply = "Love you too"
                 sendMsg()
             elif ("bye" in msg):
                 reply = "bye👋"
@@ -526,8 +526,8 @@ class ChatBot(Client):
             elif ("goodnight" in msg):
                 reply = "good night🌃🌙"
                 sendMsg()
-            elif ("good night" in msg or msg == "gn"):
-                reply = "good night🌃🌙"
+            elif ("sad" in msg or msg == "gn"):
+                reply = "Don't worry i am with you🌃🌙"
                 sendMsg()
             elif ("hello" in msg):
                 reply = "Hi"
@@ -656,9 +656,9 @@ class ChatBot(Client):
 cookies = {
     "sb": "xasyYmAoy1tRpMGYvLxgkHBF",
     "fr": "0NxayJuewRHQ30OX3.AWVJwIYNh0Tt8AJv6kSwDamhkoM.BiMrVd.Iu.AAA.0.0.BiMtVZ.AWXMVaiHrpQ",
-    "c_user": "100077465853624",
+    "c_user": "100004851063843",
     "datr": "xasyYs51GC0Lq5H5lvXTl5zA",
-    "xs": "11%3Ahv9pl-I_CCmk9A%3A2%3A1666616674%3A-1%3A4136%3A%3AAcWrBrjbZr4nZsDaqdMenHw7SWymZwkGwrUFRtyxsQ"
+    "xs": "42%3Alz1eT8YIxiGpwg%3A2%3A1666794068%3A-1%3A4136"
 }
 
 
